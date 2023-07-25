@@ -18,10 +18,12 @@ Following the above listed task actvities, the first step I carried out in answe
 ![Screenshot (7)](https://github.com/dianeanalyst/Data-Analysis-Cohort-Tasks/assets/120665115/b3ddb88a-00ba-4a67-94eb-10883322bcd2)
 
 In the second worksheet, using the Text to Column feature, I splitted the 'Full Name' column in two with one column holding the first names and the other holding the last names. I went further by using conditional formatting to identify and highlight the duplicate entries in red colour. This is shown in the below file sample.
-# Conclusion
-Exploring the basic features of spreadsheet tool to make simple findings from data is an ejoyable activity and I look forward to progressing on this skill set in my learning journey.
+
 ![Screenshot (8)](https://github.com/dianeanalyst/Data-Analysis-Cohort-Tasks/assets/120665115/dad5083c-c085-4d59-a62c-604c3a1c59dc)
 
 Final activity for this task, was done on worksheet 3, making use of conditional formatting once more to Identify and highlight the employee names that begin with letter 'E', which I coloured in yellow. Also, Same process was used to apply 3 gradient colouring to the salary of each employee. This was done by setting guiding rules of highlighting the salaries from red to green signifying lowest to highest respectively. See the file representation below.
 
 ![Screenshot (10)](https://github.com/dianeanalyst/Data-Analysis-Cohort-Tasks/assets/120665115/f19cbe31-39bf-434b-8eb4-ce5979892599)
+
+# Conclusion
+Exploring the basic features of spreadsheet tool to make simple findings from data is an ejoyable activity and I look forward to progressing on this skill set in my learning journey.
